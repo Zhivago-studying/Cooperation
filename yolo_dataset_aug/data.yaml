@@ -1,0 +1,5 @@
+path: /home/scott/project/image_process/yolo_dataset_aug
+train: images/train
+nc: 1
+names:
+  0: drone
